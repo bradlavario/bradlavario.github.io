@@ -8,7 +8,7 @@
 html {
   font-size: calc(100vw / 1600 * 100);
 }
-@media (max-width: 900px) {
+@media (max-width: 768px) {
   html {
     font-size: calc(100vw / 768 * 100);
   }
@@ -44,7 +44,7 @@ body {
   margin: auto;
   font-family: "Source Sans Pro", sans-serif;
 }
-@media (max-width: 900px) {
+@media (max-width: 768px) {
   .wrapper {
     width: auto;
     padding: 0 0.3rem;
