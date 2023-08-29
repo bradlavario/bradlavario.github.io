@@ -44,7 +44,7 @@ body {
   margin: auto;
   font-family: "Source Sans Pro", sans-serif;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .wrapper {
     width: auto;
     padding: 0 0.3rem;
