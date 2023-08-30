@@ -38,7 +38,7 @@ input[type=radio] ~ div {
   transition: max-height 0.5s;
 }
 input[type=radio]:checked ~ div {
-  max-height: 200px;
+  max-height: 400px;
 }
 
 .acc_container img {
