@@ -6,12 +6,14 @@
 }
 a:link {
   color: green;
+  text-decoration: none;
 }
 a:visited {
   color: orange;
+  text-decoration: none;
 }
 a:hover {
-  text-decoration: bold;
+  text-decoration: underline;
 }
 
 body {
