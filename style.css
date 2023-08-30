@@ -5,15 +5,16 @@
   box-sizing: border-box;
 }
 a:link {
-  color: green;
-  text-decoration: none;
+  color: lime-green;
+  text-decoration: bold;
 }
 a:visited {
   color: orange;
-  text-decoration: none;
+  text-decoration: bold;
 }
 a:hover {
   text-decoration: underline;
+	text-decoration: bold;
 }
 
 body {
