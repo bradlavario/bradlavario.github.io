@@ -4,6 +4,12 @@
   margin: 0 auto;
   box-sizing: border-box;
 }
+a:link {
+  color: green;
+}
+a:visited {
+  color: grey;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
